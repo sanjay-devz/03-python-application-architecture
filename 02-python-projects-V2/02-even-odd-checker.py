@@ -26,6 +26,7 @@ print()
 print("even list:",even_list)
 print(f'The total even numbers in the list: {even_no}')
 print()
+print()
         
 
 
