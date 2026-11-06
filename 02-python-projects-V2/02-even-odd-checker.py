@@ -12,6 +12,7 @@ for odd in old_list[:]:
         odd_no += 1
 
 
+
 for even in old_list[:]:
     if even % 2 == 1:
 
